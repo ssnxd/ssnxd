@@ -1,7 +1,7 @@
 import React from "react";
 import bird from "./bird.gif";
 
-const hoverBirds = e => {
+const hoverBirds = (e) => {
   let wy = document.documentElement.clientWidth,
     wx = document.documentElement.clientHeight;
   let bird = document.getElementById("bird");

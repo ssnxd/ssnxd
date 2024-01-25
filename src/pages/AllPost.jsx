@@ -2,9 +2,11 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Bird from "../components/Birds";
 
+const bloglist = [];
+
 class AllPost extends React.Component {
   getAllBlog() {
-    return window.bloglist.map(item => {
+    return bloglist.map((item) => {
       return (
         <li className="blog-list" key={item.id}>
           <span className="blog-data">{item.created}</span>-
