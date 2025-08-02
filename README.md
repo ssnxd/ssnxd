@@ -1,4 +1,4 @@
-# Hi, I'm ssnxd 👋
+# Hi, I'm suraj 👋
 
 I'm a passionate Full Stack Developer focused on building robust, scalable, and user-friendly applications. My expertise covers:
 
