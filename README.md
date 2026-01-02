@@ -1,10 +1,7 @@
-# Hi, I'm suraj 👋
+Hey, I’m Suraj 👋
 
-I'm a passionate Full Stack Developer focused on building robust, scalable, and user-friendly applications. My expertise covers:
+I’m a full-stack engineer who likes building things that ship and don’t fall apart later. I work mostly with TypeScript, Node.js, and Go, and I care a lot about clean architecture, performance, and keeping systems simple.
 
-- **Frontend:** TypeScript, modern JavaScript frameworks, responsive UI/UX
-- **Backend:** Node.js, Go (Golang), RESTful APIs
-- **Other:** End-to-end development, API integration, performance optimization
+I’m comfortable owning features end-to-end and thinking beyond just code — product, trade-offs, and long-term maintainability included.
 
-🌐 [surajnegi.com](https://surajnegi.com)  
-Feel free to connect or check out my work!
+Open to new opportunities — full-time or contract.
